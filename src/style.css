@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
+body {
+    display: flex;
+    justify-content: center;
     background: white;
+}
+
+#excuse {
+    
+    font-size: 35px;
+    
 }
